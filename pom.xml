@@ -24,10 +24,12 @@
     <dependency>
       <groupId>org.opentelecoms.sdp</groupId>
       <artifactId>java-sdp-nist-bridge</artifactId>
+      <version>1.2</version>
     </dependency>
     <dependency>
       <groupId>org.jitsi</groupId>
       <artifactId>jain-sip-ri-ossonly</artifactId>
+      <version>1.2.279-jitsi-oss1</version>
     </dependency>
     <dependency>
       <groupId>org.bitlet</groupId>
